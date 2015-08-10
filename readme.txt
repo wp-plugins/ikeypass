@@ -4,7 +4,7 @@ Tags: cybersecurity, 3rd factor, user authentication, user log-in, password, onl
 Requires at least: 3.0
 Tested up to: 4.2.3
 
-iKeyPass is the best user authentication solution available in the market today.  This plugin offers WordPress users/administrators an almost break-proof identity validation and prevents unauthorized access to your WordPress site. 
+iKeyPass is the best user authentication solution available in the market today. ikeyPass offers WordPress users/administrators an almost break-proof identity validation and prevents unauthorized access to your WordPress site. 
 
 == Description ==
 iKeyPass, offers you an additional layer of User Authentication that is almost break proof - and perhaps the safest security solution for identity/access management in the industry.  While companies all over the world, especially those in financial, insurance, and government sectors, are scurrying to find a more complex but yet easy-to-use multi-factor verification for their users, "complex" and "easy-to-use" has been an oxymoron till today.  iKeyPass now offers a solution that is simple to use but almost impossible to break! Our patented technology brings the latest, and perhaps the best solution in the industry for security vulnerabilities offering you a foolproof lock & key to prevent unauthorized access to your WordPress account.
