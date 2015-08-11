@@ -1,5 +1,5 @@
 === iKeyPass ===
-Contributors: rahulsharma841990, mannverma, and team..
+Contributors: rahulsharma841990, mannverma, and team...
 Tags: cybersecurity, 3rd factor, user authentication, user log-in, password, online access, identity protection, Security.
 Requires at least: 3.0
 Tested up to: 4.2.3
